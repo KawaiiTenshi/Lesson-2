@@ -1,0 +1,40 @@
+body {
+    font-family: monospace;
+    font-size: x-large;
+    font-style: oblique;
+    font-variant: small-caps;
+    background: #ffe5b4 url(../img/f0bc796fb1a08b5dd32172140a9a559595c605f0_hq.jpg) no-repeat fixed right;
+    background-size: 100px;
+}
+a {
+    text-decoration-line: none;
+    font-family: Nova monospace;
+    color: #808000;
+}
+span {
+    font-family: cursive;
+    font-size: medium;
+    width: 100px;
+    text-decoration-line: none;
+    color: #808000;
+}
+.big {
+    width: 400px;
+    height: 200px;
+}
+.logo {
+    width: 250px;
+    height: 150px;
+}
+.big:hover {
+    transform: scale(1.3);
+}
+.news {
+    margin-top: 10px;
+    margin-left: 20px;
+}
+h1 {
+    font-family: Trebuchet MS, sans-serif;
+    color: #808000;
+    font-size: x-large;
+}
